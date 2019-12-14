@@ -1,7 +1,7 @@
 *.mp4
 *.png
+*.jpg
 *.h5
-face2face-demo/experiments/*
+*.gif
+experiments/*
 *.zip
-Realistic-Neural-Talking-Head-Models/*
-talking-heads/*
