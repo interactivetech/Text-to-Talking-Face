@@ -7,3 +7,5 @@ experiments/
 checkpoint
 *.zip
 *.pb
+*.dat
+
