@@ -1,0 +1,7 @@
+{
+    "files.watcherExclude": {
+        "*.h5": true,
+        "*.png": true
+    },
+    "git.ignoreLimitWarning": true
+}
