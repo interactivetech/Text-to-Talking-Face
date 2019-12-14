@@ -1,0 +1,1 @@
+This includes solely the code we wrote. However, it depends on the follwoing repository's modeling source code: https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/Tacotron2
